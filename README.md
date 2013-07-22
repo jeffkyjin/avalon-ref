@@ -15,3 +15,5 @@ TODO:
 =========
 translate and upload bill of materials.
 clean up and upload chip communication protocol.
+
+i3luefire - This is for fun. Don't use for anything important.
